@@ -10,4 +10,4 @@ def checkOddEven(x):
 a=int(input())
 
 result = checkOddEven(a)
-print(result)
+print("Number is :",result)
